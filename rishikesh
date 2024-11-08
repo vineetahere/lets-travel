@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Guide to Rishikesh</title>
+    <link rel="stylesheet" href="style3.css">
+</head>
+<body>
+    <header>
+        <h1>Travel Guide to Rishikesh</h1>
+        <nav>
+            <ul>
+                <li><a href="#attractions">Attractions</a></li>
+                <li><a href="#activities">Activities</a></li>
+                <li><a href="#cuisine">Cuisine</a></li>
+                <li><a href="#accommodation">Accommodation</a></li>
+                <li><a href="#tips">Travel Tips</a></li>
+                <li><a href="#itinerary">Itinerary</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="attractions">
+            <h2>Key Attractions</h2>
+            <ul>
+                <li><strong>Lakshman Jhula and Ram Jhula:</strong> Iconic suspension bridges.</li>
+                <li><strong>Triveni Ghat:</strong> Sacred bathing ghat known for Ganga Aarti.</li>
+                <li><strong>Beatles Ashram:</strong> Famous for its association with The Beatles.</li>
+                <li><strong>Parmarth Niketan:</strong> A large ashram offering yoga and meditation.</li>
+                <li><strong>Neelkanth Mahadev Temple:</strong> Ancient temple dedicated to Lord Shiva.</li>
+                <li><strong>Kunjapuri Devi Temple:</strong> Hilltop temple with panoramic views.</li>
+                <li><strong>Rajaji National Park:</strong> Rich wildlife and nature activities.</li>
+                <li><strong>Neer Garh Waterfall:</strong> Picturesque waterfall accessible via a trek.</li>
+            </ul>
+        </section>
+
+        <section id="activities">
+            <h2>Adventure Activities</h2>
+            <ul>
+                <li><strong>White Water Rafting:</strong> Thrilling rafting experiences on the Ganges.</li>
+                <li><strong>Bungee Jumping:</strong> Experience bungee jumping at a high spot.</li>
+                <li><strong>Trekking:</strong> Scenic treks to viewpoints and waterfalls.</li>
+                <li><strong>Yoga and Meditation:</strong> Participate in retreats and sessions.</li>
+                <li><strong>Camping:</strong> Enjoy camping along the Ganges or in forests.</li>
+            </ul>
+        </section>
+
+        <section id="cuisine">
+            <h2>Local Cuisine</h2>
+            <ul>
+                <li>Momos: Steamed dumplings filled with vegetables or paneer.</li>
+                <li>Thukpa: Noodle soup with vegetables or meat (vegetarian options available).</li>
+                <li>Chole Bhature: Spiced chickpeas served with deep-fried bread.</li>
+                <li>Sweets and snacks from local stalls.</li>
+            </ul>
+        </section>
+
+        <section id="accommodation">
+            <h2>Accommodation Options</h2>
+            <ul>
+                <li><strong>Luxury Hotels:</strong> Options like Ananda in the Himalayas.</li>
+                <li><strong>Mid-range Hotels:</strong> Comfortable hotels near attractions.</li>
+                <li><strong>Budget Hostels/Guesthouses:</strong> Affordable options in Swarg Ashram area.</li>
+                <li><strong>Ashrams:</strong> Unique spiritual stays available.</li>
+            </ul>
+        </section>
+
+        <section id="tips">
+            <h2>Travel Tips</h2>
+            <ul>
+                <li>Dress modestly when visiting temples and spiritual sites.</li>
+                <li>Cultural sensitivity: Non-vegetarian food and alcohol are often prohibited.</li>
+                <li>Carry cash as smaller establishments may not accept cards.</li>
+                <li>Stay hydrated and acclimatize properly if trekking at high altitudes.</li>
+            </ul>
+        </section>
+
+        <section id="itinerary">
+            <h2Suggested Itinerary (3 Days)</h2
+            >
+            <ol>
+                <li><strong>Day 1:</strong> Arrival in Rishikesh; visit Triveni Ghat for Ganga Aarti.</li>
+                <li><strong>Day 2:</strong> Morning white water rafting; visit Lakshman Jhula and Beatles Ashram.</li>
+                <li><strong>Day 3:</strong> Morning yoga session; visit Neelkanth Mahadev Temple; enjoy local cuisine before departure.</li>
+            </ol
+            >
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
